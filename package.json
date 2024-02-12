@@ -1,0 +1,25 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "Binary Search Tree Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KvJellyBean/binary-search-tree.git"
+  },
+  "keywords": [
+    "bst",
+    "binary search tree",
+    "binary tree"
+  ],
+  "author": "KvJellyBean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KvJellyBean/binary-search-tree/issues"
+  },
+  "homepage": "https://github.com/KvJellyBean/binary-search-tree#readme",
+  "type": "module"
+}
